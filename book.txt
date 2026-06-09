@@ -1,0 +1,11 @@
+Introduction to Algorithms,Thomas H. Cormen,2009-07-31,Computer,Used Like New,80.00,50.00,230
+The Great Gatsby,F. Scott Fitzgerald,1925-04-10,Novels,Moderately Used,15.00,10.00,870
+Physics for Scientists and Engineers,Raymond A. Serway,2013-01-01,Natural Sciences,Heavily Used,100.00,60.00,20
+Calculus Made Easy,Silvanus P. Thompson,1910-01-01,Math,Used Like New,20.00,12.00,653
+Dune,Frank Herbert,1965-08-01,Sci-Fi,Moderately Used,25.00,18.00,96
+Modern English Grammar,Gerald Nelson and Sidney Greenbaum,2002-03-12,English,Used Like New,30.00,20.00,874
+Data Structures and Algorithms,Alfred V. Aho,1983-02-15,Computer,Heavily Used,75.00,45.00,313
+Organic Chemistry,Paula Yurkanis Bruice,2010-05-20,Natural Sciences,Moderately Used,60.00,35.00,564
+Linear Algebra Done Right,Sheldon Axler,1997-09-01,Math,Used Like New,40.00,25.00,356
+Neuromancer,William Gibson,1984-07-01,Sci-Fi,Heavily Used,18.00,12.00,764
+asu demo,dat pham,2024,Novels,Moderately Used,32.21,24.16,1
